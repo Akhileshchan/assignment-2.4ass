@@ -1,0 +1,31 @@
+<DOCTYPE>
+<html>
+<body>
+
+<p>  my favourite color is
+     <del> red </del>
+     <ins>  orange </ins>  </p>
+
+<!...superscript ..>
+<p> E=mc <sup> 2 </sup>  </p>
+
+
+<!..subsecipt..>
+<p>  CH <sub> 4</sub> + H <sub> 2 </sub> O = CO + 4 H <sub> 2 </sub>  </p>
+
+<figure> 
+ scr ="image .jpg"
+ alt ="akhilesh image"
+ width:250
+ hight:300
+ <figcaption>  personal photo of akhilesh </figcaption >
+ </figure>
+
+ <p> 
+<a> href="https://www.ffe.org/apply" </a>
+is  a link to website on world  wide web </p>
+
+</body>
+</html>
+
+
